@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-rahul-353815",
+  "private_key_id": "4014e674ec8938b9a81df9b21cd0c2eef6cb6880",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRlIpvgD+W+j4P\njoDByTDtvdMi0C7ams/9Nd78RFJeRrEcqroBGayMziVfEty2uzfb1FOLgKgm8AaU\nHnPoBgSwVuayqeDAANZ46ujii/VdRJnWcB1L+ZtDPi0B0nmj0r4zCGx3YBo2900S\nuVAf96wUYX69JFwY9cMlFkjzP3SU2tdjXNyVGqbKpibMw2vgrCoeAFqjJ+AFUSKU\n62ZYujsPWVLLRd7v1HfQCbzJ5JJC0QYiVTZTkg0fRn+MlR6MJCtDYfDtss/rVQ0k\nr/pSgc26j9aTxn8Luh9ROJDGa2ty3jkZYUQqfGmQQ+PAcXK7yb9kzrN/hp717NCi\nM+M2yiNZAgMBAAECggEAAaGvDYHb9Ja4ZFc+BS36kOeMOrsnk0ah5x4X8i7X13um\nV4JoVEPT5b4XuCGPfLLLdPjDuPAHsmwFPtq6hNKwccN/kWgK/0vjG3bShlt4NAPl\nT3xxL51MCqxjN76Co33kqNDC2nGmyY/q+rc9+SW+9XmEQJ1sNNFoTv2ZcrR224Y2\nCLPitJSgcVexGT50Bll6fgq7/mptV/Z9H3W8vyP5EIL2mupeHZdBZ4lwI/T6/gFf\nLSsvL3dqnGYNOcI4154aGPGZOKBdFfRfBUSO9wehx4GyjHIigltOqMf221TDLyuy\nnD9O75NOwGxpXv0VKpXxl6vkgdQOfza/Yu+AikvWMwKBgQDFfYf6IRfoRhZyLnyb\nQUAjotJeF/0HiHIefr75ay+EcwQ4O727kPx5e/khvZKRrf3ZN3YGgk8F/i9e9Mnf\nYVLcpdF6T0oc+fQ7rlntYIKpzbMUBQ9LgVOLqxhS6tYKVZvOgQlZKjiKi0ZH3f/g\ne8fXxbyQwmPBAy8Iiihz2xJV7wKBgQC8te+UZI8yPhwvrIxttQezslf5AYXlxUA6\nTUqAfQ/1AQy95Gju7iMaznS/gbwmOm1W5umE+2Yz+wsPO3M0xF4Kde/no/S8l0vq\nKO76F/QNvrB6AxAYAlx2sIn5cRBoSFhGtwsAef5l/y7S/PLTBORkLtjp2bGnTtgP\np4GY54YjNwKBgQCl9Hbvmh+c8EisaqQLUymyyIA+0amvStmbBqc0sP2dL4m8N3eY\nxp1i+OrBj6w6/xryDckAb0A4qQDlqo55SC95e14sibSd5O13uWuYLiGez1xM1nOj\n32l1VLF7/BshVA852PUiGHiq8557hfIfkeS9TUzH2JI6/5HmezLDKLSfwQKBgE/S\nQSGqm2tsHC4KNWgeP8DBujZob4OuOKmwkcfhnoNKy2HzIHOYJR8snvN2Y+hjpGYy\nzCnk0OlB0f7CbcuvF/wiwLRhhJ7U/FZytArzYNcDhtBFRWRyczv9Fo99RKxnlXdr\n62prL7FjDCJQvkGF+zlpG3VnEJ8tWXTdrJLJs9JnAoGAJ4hhZrfvxbMvoFLVPx6q\nX9qty7PFCQOt0W5n2/48QXvDHhCiJ6J/QLYE8YfBJlZsRBcadSck3QUnDwpv6e6u\nXKy78vQKRiyGbCSixj4uRNztITOSYHqaOwo+Nj1V5C0YQSzKq2R97hA/Qdm0yVOM\npjLmZOo2edNiBzFp7jthjw8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rahul-terraform@my-project-rahul-353815.iam.gserviceaccount.com",
+  "client_id": "108223606456204052483",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rahul-terraform%40my-project-rahul-353815.iam.gserviceaccount.com"
+}
